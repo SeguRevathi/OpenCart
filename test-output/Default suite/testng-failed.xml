@@ -3,12 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.psl.OpenCart.Tests.TestShoppingCart">
+      <class name="com.psl.OpenCart.Tests.newAddress">
         <methods>
-          <include name="addCouponTest"/>
-          <include name="shoppingCartUpdateTest"/>
+          <include name="start"/>
+          <include name="addressbook"/>
+          <include name="closeBrowser"/>
+          <include name="newAddress_data"/>
         </methods>
-      </class> <!-- com.psl.OpenCart.Tests.TestShoppingCart -->
+      </class> <!-- com.psl.OpenCart.Tests.newAddress -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

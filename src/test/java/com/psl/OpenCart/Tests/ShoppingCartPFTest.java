@@ -6,6 +6,7 @@ package com.psl.OpenCart.Tests;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
 
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
@@ -14,13 +15,18 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 import com.psl.OpenCart.pages.ShoppingCartPF;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 /**
  * @author segu_revathi
@@ -28,13 +34,48 @@ import com.psl.OpenCart.pages.ShoppingCartPF;
  */
 public class ShoppingCartPFTest {
 
-	 WebDriver driver;
-	 ShoppingCartPF scPage;
+	WebDriver driver;
+	private ShoppingCartPF scPage;
+	@Parameters({"browser"})
 	@BeforeTest
-	public void setup()
+	
+	public void setup(String browser)
 	{
-		System.setProperty("webdriver.chrome.driver","D:\\chromedriver.exe");
-		driver=new ChromeDriver();
+		
+			try
+			{
+				//Check if parameter passed from TestNG is 'firefox'
+				if(browser.equalsIgnoreCase("firefox"))
+				{
+				//create firefox instance
+				WebDriverManager.firefoxdriver().setup();
+				driver = new FirefoxDriver();
+				}
+				//Check if parameter passed as 'chrome'
+				else if(browser.equalsIgnoreCase("chrome"))
+				{
+				//set path to chromedriver.exe
+				WebDriverManager.chromedriver().setup();
+				driver = new ChromeDriver();
+				}
+				else if(browser.equalsIgnoreCase("Edge"))
+				{
+				//set path to Edge.exe
+				//EdgeOptions options=new EdgeOptions();
+				WebDriverManager.edgedriver().setup();
+				driver = new EdgeDriver();
+				//driver = new EdgeDriver();
+				}
+				else{
+				//If no browser is passed throw exception
+				throw new Exception("Incorrect Browser");
+				}
+				driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+			}
+			catch(Exception e)
+			{
+				e.printStackTrace();
+			}
 		driver.manage().window().maximize();
 		driver.get("http://localhost/opencartpro/");
 		try {

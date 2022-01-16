@@ -136,4 +136,279 @@
   2022-01-10 15:29:40 INFO  LoggersExample:152 - Chrome closed successfully!!!
   2022-01-10 15:37:46 INFO  LoggersExample:152 - Chrome closed successfully!!!
   2022-01-10 16:08:05 INFO  LoggersExample:152 - Chrome closed successfully!!!
+  2022-01-13 16:22:42 INFO  LoggersExample:48 - Browser opened successfully!!!
+  2022-01-13 16:22:45 INFO  LoggersExample:109 - Tested Euro currency functionality.
+  2022-01-13 16:22:45 INFO  LoggersExample:116 - Tested Pound currency functionality.
+  2022-01-13 16:22:46 INFO  LoggersExample:123 - Tested USDollar functionality.
+  2022-01-13 16:23:46 INFO  LoggersExample:48 - Browser opened successfully!!!
+  2022-01-13 16:23:49 INFO  LoggersExample:109 - Tested Euro currency functionality.
+  2022-01-13 16:23:50 INFO  LoggersExample:116 - Tested Pound currency functionality.
+  2022-01-13 16:23:51 INFO  LoggersExample:123 - Tested USDollar functionality.
+  2022-01-13 16:23:52 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-13 16:23:52 INFO  LoggersExample:80 - Tested Update items in cart functionality.
+  2022-01-13 16:23:53 INFO  LoggersExample:88 - Testedwhether final price is correct.
+  2022-01-13 16:23:55 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-13 16:23:55 INFO  LoggersExample:95 - Tested Add Coupon functionality.
+  2022-01-13 16:23:56 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-13 16:23:56 INFO  LoggersExample:102 - Tested Remove item from cart functionality.
+  2022-01-13 16:23:56 INFO  LoggersExample:130 - Browser closed successfully!!!
+  2022-01-14 13:54:47 INFO  LoggersExample:48 - Browser opened successfully!!!
+  2022-01-14 13:54:51 INFO  LoggersExample:109 - Tested Euro currency functionality.
+  2022-01-14 13:54:52 INFO  LoggersExample:116 - Tested Pound currency functionality.
+  2022-01-14 13:54:53 INFO  LoggersExample:123 - Tested USDollar functionality.
+  2022-01-14 13:54:55 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 13:54:56 INFO  LoggersExample:80 - Tested Update items in cart functionality.
+  2022-01-14 13:54:57 INFO  LoggersExample:88 - Testedwhether final price is correct.
+  2022-01-14 13:54:59 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 13:54:59 INFO  LoggersExample:95 - Tested Add Coupon functionality.
+  2022-01-14 13:55:00 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 13:55:00 INFO  LoggersExample:102 - Tested Remove item from cart functionality.
+  2022-01-14 13:55:00 INFO  LoggersExample:130 - Browser closed successfully!!!
+  2022-01-14 15:19:21 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 15:20:06 INFO  LoggersExample:34 - Browser opened successfully!!!
+  2022-01-14 15:21:09 INFO  LoggersExample:34 - Browser opened successfully!!!
+  2022-01-14 15:21:58 INFO  LoggersExample:34 - Browser opened successfully!!!
+  2022-01-14 15:22:38 INFO  LoggersExample:34 - Browser opened successfully!!!
+  2022-01-14 15:24:14 INFO  LoggersExample:34 - Browser opened successfully!!!
+  2022-01-14 15:25:26 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 15:28:05 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 15:30:02 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 15:30:59 INFO  LoggersExample:34 - Browser opened successfully!!!
+  2022-01-14 15:32:47 INFO  LoggersExample:48 - Browser opened successfully!!!
+  2022-01-14 15:32:55 INFO  LoggersExample:80 - Tested Euro currency functionality.
+  2022-01-14 15:32:58 INFO  LoggersExample:87 - Tested Pound currency functionality.
+  2022-01-14 15:32:59 INFO  LoggersExample:94 - Tested USDollar functionality.
+  2022-01-14 15:33:02 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 15:33:04 INFO  LoggersExample:101 - Tested Update items in cart functionality.
+  2022-01-14 15:33:06 INFO  LoggersExample:109 - Testedwhether final price is correct.
+  2022-01-14 15:33:10 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 15:33:10 INFO  LoggersExample:116 - Tested Add Coupon functionality.
+  2022-01-14 15:33:12 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 15:33:12 INFO  LoggersExample:123 - Tested Remove item from cart functionality.
+  2022-01-14 15:33:13 INFO  LoggersExample:131 - Browser closed successfully!!!
+  2022-01-14 15:36:01 INFO  LoggersExample:50 - Browser opened successfully!!!
+  2022-01-14 15:36:08 INFO  LoggersExample:82 - Tested Euro currency functionality.
+  2022-01-14 15:36:10 INFO  LoggersExample:89 - Tested Pound currency functionality.
+  2022-01-14 15:36:11 INFO  LoggersExample:96 - Tested USDollar functionality.
+  2022-01-14 15:36:14 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 15:36:15 INFO  LoggersExample:103 - Tested Update items in cart functionality.
+  2022-01-14 15:36:17 INFO  LoggersExample:111 - Testedwhether final price is correct.
+  2022-01-14 15:36:21 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 15:36:21 INFO  LoggersExample:118 - Tested Add Coupon functionality.
+  2022-01-14 15:36:23 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 15:36:23 INFO  LoggersExample:125 - Tested Remove item from cart functionality.
+  2022-01-14 15:36:23 INFO  LoggersExample:147 - Browser closed successfully!!!
+  2022-01-14 15:41:11 INFO  LoggersExample:50 - Browser opened successfully!!!
+  2022-01-14 15:41:19 INFO  LoggersExample:82 - Tested Euro currency functionality.
+  2022-01-14 15:41:21 INFO  LoggersExample:89 - Tested Pound currency functionality.
+  2022-01-14 15:41:23 INFO  LoggersExample:96 - Tested USDollar functionality.
+  2022-01-14 15:41:25 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 15:41:27 INFO  LoggersExample:103 - Tested Update items in cart functionality.
+  2022-01-14 15:41:30 INFO  LoggersExample:111 - Testedwhether final price is correct.
+  2022-01-14 15:41:34 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 15:41:34 INFO  LoggersExample:118 - Tested Add Coupon functionality.
+  2022-01-14 15:41:36 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 15:41:36 INFO  LoggersExample:125 - Tested Remove item from cart functionality.
+  2022-01-14 15:41:37 INFO  LoggersExample:147 - Browser closed successfully!!!
+  2022-01-14 15:46:38 INFO  LoggersExample:92 - Browser opened successfully!!!
+  2022-01-14 15:51:09 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 15:51:17 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 15:51:17 INFO  LoggersExample:123 - Tested Euro currency functionality.
+  2022-01-14 15:51:19 INFO  LoggersExample:130 - Tested Pound currency functionality.
+  2022-01-14 15:51:20 INFO  LoggersExample:137 - Tested USDollar functionality.
+  2022-01-14 15:51:22 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 15:51:22 INFO  LoggersExample:123 - Tested Euro currency functionality.
+  2022-01-14 15:51:23 INFO  LoggersExample:144 - Tested Update items in cart functionality.
+  2022-01-14 15:51:23 INFO  LoggersExample:130 - Tested Pound currency functionality.
+  2022-01-14 15:51:25 INFO  LoggersExample:152 - Testedwhether final price is correct.
+  2022-01-14 15:51:25 INFO  LoggersExample:137 - Tested USDollar functionality.
+  2022-01-14 15:51:27 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 15:51:29 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 15:51:29 INFO  LoggersExample:159 - Tested Add Coupon functionality.
+  2022-01-14 15:51:29 INFO  LoggersExample:144 - Tested Update items in cart functionality.
+  2022-01-14 15:51:31 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 15:51:31 INFO  LoggersExample:166 - Tested Remove item from cart functionality.
+  2022-01-14 15:51:31 INFO  LoggersExample:174 - Browser closed successfully!!!
+  2022-01-14 15:51:31 INFO  LoggersExample:152 - Testedwhether final price is correct.
+  2022-01-14 15:51:37 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 15:51:37 INFO  LoggersExample:166 - Tested Remove item from cart functionality.
+  2022-01-14 15:51:38 INFO  LoggersExample:174 - Browser closed successfully!!!
+  2022-01-14 16:07:05 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 16:07:11 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 16:09:19 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 19:15:25 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 19:15:29 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 19:54:36 INFO  LoggersExample:50 - Browser opened successfully!!!
+  2022-01-14 19:54:45 INFO  LoggersExample:82 - Tested Euro currency functionality.
+  2022-01-14 19:54:48 INFO  LoggersExample:89 - Tested Pound currency functionality.
+  2022-01-14 19:54:50 INFO  LoggersExample:96 - Tested USDollar functionality.
+  2022-01-14 19:54:53 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 19:54:56 INFO  LoggersExample:103 - Tested Update items in cart functionality.
+  2022-01-14 19:54:58 INFO  LoggersExample:111 - Testedwhether final price is correct.
+  2022-01-14 19:55:04 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 19:55:04 INFO  LoggersExample:118 - Tested Add Coupon functionality.
+  2022-01-14 19:55:07 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 19:55:07 INFO  LoggersExample:125 - Tested Remove item from cart functionality.
+  2022-01-14 19:55:07 INFO  LoggersExample:133 - Browser closed successfully!!!
+  2022-01-14 22:41:24 INFO  LoggersExample:50 - Browser opened successfully!!!
+  2022-01-14 22:41:34 INFO  LoggersExample:82 - Tested Euro currency functionality.
+  2022-01-14 22:41:37 INFO  LoggersExample:89 - Tested Pound currency functionality.
+  2022-01-14 22:41:39 INFO  LoggersExample:96 - Tested USDollar functionality.
+  2022-01-14 22:42:07 INFO  LoggersExample:70 - Updated count of item in cart
+  2022-01-14 22:42:10 INFO  LoggersExample:109 - Tested Update items in cart functionality.
+  2022-01-14 22:42:12 INFO  LoggersExample:117 - Testedwhether final price is correct.
+  2022-01-14 22:42:17 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 22:42:17 INFO  LoggersExample:124 - Tested Add Coupon functionality.
+  2022-01-14 22:42:19 INFO  LoggersExample:79 - Clicked on remove button
+  2022-01-14 22:42:19 INFO  LoggersExample:131 - Tested Remove item from cart functionality.
+  2022-01-14 22:42:19 INFO  LoggersExample:139 - Browser closed successfully!!!
+  2022-01-14 22:44:04 INFO  LoggersExample:50 - Browser opened successfully!!!
+  2022-01-14 22:44:10 INFO  LoggersExample:82 - Tested Euro currency functionality.
+  2022-01-14 22:44:11 INFO  LoggersExample:89 - Tested Pound currency functionality.
+  2022-01-14 22:44:13 INFO  LoggersExample:96 - Tested USDollar functionality.
+  2022-01-14 22:44:41 INFO  LoggersExample:70 - Updated count of item in cart
+  2022-01-14 22:44:43 INFO  LoggersExample:109 - Tested Update items in cart functionality.
+  2022-01-14 22:44:46 INFO  LoggersExample:117 - Testedwhether final price is correct.
+  2022-01-14 22:44:56 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 22:44:56 INFO  LoggersExample:124 - Tested Add Coupon functionality.
+  2022-01-14 22:44:58 INFO  LoggersExample:79 - Clicked on remove button
+  2022-01-14 22:44:58 INFO  LoggersExample:131 - Tested Remove item from cart functionality.
+  2022-01-14 22:44:58 INFO  LoggersExample:139 - Browser closed successfully!!!
+  2022-01-14 23:17:51 INFO  LoggersExample:44 - Browser opened successfully!!!
+  2022-01-14 23:20:36 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:22:26 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:22:58 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:23:42 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:25:10 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:26:17 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:26:42 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:27:33 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:29:35 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:30:05 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:30:14 INFO  LoggersExample:69 - Shopping cart is empty!
+  2022-01-14 23:30:15 INFO  LoggersExample:74 - Added product to cart
+  2022-01-14 23:30:52 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:31:23 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:31:32 INFO  LoggersExample:69 - Shopping cart is empty!
+  2022-01-14 23:31:36 INFO  LoggersExample:75 - Added product to cart
+  2022-01-14 23:32:58 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-14 23:33:08 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-14 23:33:11 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-14 23:33:13 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-14 23:33:16 INFO  LoggersExample:109 - Shopping cart is empty! Added product
+  2022-01-14 23:33:21 INFO  LoggersExample:70 - Updated count of item in cart
+  2022-01-14 23:33:24 INFO  LoggersExample:122 - Tested Update items in cart functionality.
+  2022-01-14 23:33:27 INFO  LoggersExample:130 - Testedwhether final price is correct.
+  2022-01-14 23:33:32 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 23:33:32 INFO  LoggersExample:137 - Tested Add Coupon functionality.
+  2022-01-14 23:33:35 INFO  LoggersExample:79 - Clicked on remove button
+  2022-01-14 23:33:35 INFO  LoggersExample:144 - Tested Remove item from cart functionality.
+  2022-01-14 23:33:35 INFO  LoggersExample:152 - Browser closed successfully!!!
+  2022-01-14 23:34:12 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-14 23:34:20 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-14 23:34:22 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-14 23:34:24 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-14 23:34:29 INFO  LoggersExample:70 - Updated count of item in cart
+  2022-01-14 23:34:31 INFO  LoggersExample:122 - Tested Update items in cart functionality.
+  2022-01-14 23:34:33 INFO  LoggersExample:130 - Testedwhether final price is correct.
+  2022-01-14 23:34:38 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 23:34:38 INFO  LoggersExample:137 - Tested Add Coupon functionality.
+  2022-01-14 23:34:41 INFO  LoggersExample:79 - Clicked on remove button
+  2022-01-14 23:34:41 INFO  LoggersExample:144 - Tested Remove item from cart functionality.
+  2022-01-14 23:34:41 INFO  LoggersExample:152 - Browser closed successfully!!!
+  2022-01-15 11:44:41 INFO  LoggersExample:78 - Browser closed successfully!!!
+  2022-01-15 11:50:26 INFO  LoggersExample:82 - Browser closed successfully!!!
+  2022-01-15 11:53:24 INFO  LoggersExample:82 - Browser closed successfully!!!
+  2022-01-15 11:54:20 INFO  LoggersExample:42 - Desktop module is enable
+  2022-01-15 11:54:26 INFO  LoggersExample:80 - Browser closed successfully!!!
+  2022-01-15 12:56:15 INFO  LoggersExample:36 - Tejal
+  2022-01-15 12:56:15 INFO  LoggersExample:45 - Borase
+  2022-01-15 12:56:15 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-15 12:56:15 INFO  LoggersExample:66 - 8698077555
+  2022-01-15 12:56:15 INFO  LoggersExample:74 - tejal
+  2022-01-15 12:56:15 INFO  LoggersExample:82 - tejal
+  2022-01-15 13:11:29 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:11:31 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:11:32 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:11:33 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:11:33 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-15 13:11:34 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:11:35 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:11:35 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:11:36 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-15 13:11:36 INFO  LoggersExample:143 - Tested Remove item from cart functionality.
+  2022-01-15 13:11:37 INFO  LoggersExample:151 - Browser closed successfully!!!
+  2022-01-15 13:13:04 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:13:07 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:13:07 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:13:08 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:13:08 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-15 13:13:09 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:13:10 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:13:10 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:13:12 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-15 13:13:12 INFO  LoggersExample:143 - Tested Remove item from cart functionality.
+  2022-01-15 13:13:12 INFO  LoggersExample:151 - Browser closed successfully!!!
+  2022-01-15 13:14:10 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:14:12 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:14:13 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:14:13 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:14:14 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-15 13:14:15 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:14:15 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:14:16 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:14:17 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-15 13:14:17 INFO  LoggersExample:143 - Tested Remove item from cart functionality.
+  2022-01-15 13:14:17 INFO  LoggersExample:151 - Browser closed successfully!!!
+  2022-01-15 13:14:46 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:14:48 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:14:49 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:14:49 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:14:50 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-15 13:14:51 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:14:52 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:14:52 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:14:54 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-15 13:14:54 INFO  LoggersExample:143 - Tested Remove item from cart functionality.
+  2022-01-15 13:14:54 INFO  LoggersExample:151 - Browser closed successfully!!!
+  2022-01-15 13:15:30 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:15:33 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:15:34 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:15:34 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:15:35 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-15 13:15:36 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:15:37 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:15:37 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:18:03 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:18:05 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:18:06 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:18:07 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:18:08 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:18:09 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:18:09 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:21:02 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:21:05 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:21:05 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:21:06 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:21:07 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:21:08 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:21:09 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:21:11 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-15 13:21:11 INFO  LoggersExample:136 - Tested Add Coupon functionality.
+  2022-01-15 13:21:11 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-15 13:21:11 INFO  LoggersExample:143 - Tested Remove item from cart functionality.
+  2022-01-15 13:21:11 INFO  LoggersExample:151 - Browser closed successfully!!!
+  2022-01-15 13:22:52 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:22:55 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:22:55 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:22:56 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:22:56 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-15 13:22:57 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:22:58 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:22:58 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:23:00 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-15 13:23:00 INFO  LoggersExample:135 - Tested Add Coupon functionality.
+  2022-01-15 13:23:00 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-15 13:23:00 INFO  LoggersExample:142 - Tested Remove item from cart functionality.
+  2022-01-15 13:23:00 INFO  LoggersExample:150 - Browser closed successfully!!!
   
